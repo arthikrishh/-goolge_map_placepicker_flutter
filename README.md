@@ -10,6 +10,7 @@ This Flutter application demonstrates how to integrate Google Maps and Google Pl
  * Search Places: Search for specific places using the search bar.
  * Place Details: View details of selected places, including name and address.
 
+
  # Screenshots
 
  <img width="1192" alt="Screenshot 2024-05-16 at 8 20 53 PM" src="https://github.com/arthikrishh/-goolge_map_placepicker_flutter/assets/116914004/7a2af4b7-8bb8-4608-93cc-86d17d525559">
@@ -36,6 +37,7 @@ This Flutter application demonstrates how to integrate Google Maps and Google Pl
 
       flutter run 
 
+
  # Configuration
 
 Before running the application, make sure to add your Google Maps and Places API keys to the code. You can obtain API keys from the Google Cloud Console.
@@ -53,6 +55,7 @@ const String placesApiKey = 'YOUR_GOOGLE_PLACES_API_KEY';
 
 
 
+
  # Dependencies
 
 This project relies on the following packages:
@@ -62,6 +65,8 @@ This project relies on the following packages:
  * google_place: For accessing Google Places API.
  * google_maps_webservice: For additional functionality with Google Maps API.
  * uuid: For generating UUIDs.
+
+
 
  # Contributing
 
