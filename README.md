@@ -21,21 +21,21 @@ This Flutter application demonstrates how to integrate Google Maps and Google Pl
 
  1) Clone this repository:
 
-      git clone https://github.com/arthikrishh/flutter-google-maps-places-demo.git
+      `git clone https://github.com/arthikrishh/flutter-google-maps-places-demo.git`
 
  2) Navigate to the project directory:
 
-      cd flutter-google-maps-places-demo
+      `cd flutter-google-maps-places-demo`
 
  3) Install dependencies:
 
-      flutter pub get
+      `flutter pub get`
 
  4) Add your Google Maps and Places API keys to the code.
 
  5) Run the app:
 
-      flutter run 
+      `flutter run`
 
 
  # Configuration
@@ -46,11 +46,9 @@ Update the following lines in the code with your API keys:
 
 
 
-// Add your Google Maps and Places API keys here
-
-const String mapsApiKey = 'YOUR_GOOGLE_MAPS_API_KEY';
-
-const String placesApiKey = 'YOUR_GOOGLE_PLACES_API_KEY';
+`// Add your Google Maps and Places API keys here`
+`const String mapsApiKey = 'YOUR_GOOGLE_MAPS_API_KEY';`
+`const String placesApiKey = 'YOUR_GOOGLE_PLACES_API_KEY';`
 
 
 
