@@ -43,6 +43,7 @@ Before running the application, make sure to add your Google Maps and Places API
 Update the following lines in the code with your API keys:
 
 // Add your Google Maps and Places API keys here
+
 const String mapsApiKey = 'YOUR_GOOGLE_MAPS_API_KEY';
 const String placesApiKey = 'YOUR_GOOGLE_PLACES_API_KEY';
 
