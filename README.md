@@ -1,4 +1,4 @@
-# goolge_map_placepicker_flutter
+# goolge map placepicker flutter
 
 Flutter Google Maps and Places Demo
 This Flutter application demonstrates how to integrate Google Maps and Google Places APIs to create a location-based service. Users can select a location on the map, view nearby businesses, and search for specific places using the search bar.
