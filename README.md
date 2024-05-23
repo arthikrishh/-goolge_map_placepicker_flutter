@@ -25,7 +25,7 @@ This Flutter application demonstrates how to integrate Google Maps and Google Pl
 
  2) Navigate to the project directory:
 
-      `cd flutter-google-maps-places-demo`
+      `cd -google_map_placepicker_flutter`
 
  3) Install dependencies:
 
